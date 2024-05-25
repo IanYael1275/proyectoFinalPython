@@ -1,0 +1,5 @@
+Cliente: Ian
+Producto: Hamburguesa
+Precio por unidad: $200.00
+Unidades solicitadas: 20
+Costo total: $4000.00
